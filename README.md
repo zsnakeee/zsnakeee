@@ -18,6 +18,13 @@
 - 💬 Ask me about php , c++, c#
 - 📫 How to reach me: ziadtallat33@gmail.com
 
+<h3 align="center">Projects:</h3>
+
+
+- <a href="https://xcheat.org/">xcheat.org</a> (Front End (HTML,CSS) , Back End (PHP,JS))
+- <a href="https://api.xcheat.org/">api.xcheat.org</a> (api to receive json info from desktop application (MFC C++) and add it in sql database)
+
+  
 <h3 align="center">Languages:</h3>
 
 <p align="center">
@@ -27,8 +34,10 @@
 <img src="https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" alt="PHP">
 </p>
 
+<!--
 <h3 align="center">Support:</h3>
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/fd64c51a4afd8b4e2b84479f9a2b654084602bd15f25ab31cbd7a679d73d129a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d3030343537433f7374796c653d666f722d7468652d6261646765266c6f676f3d70617970616c266c6f676f436f6c6f723d7768697465" alt="PAYPAL">
 </p>
+-->
