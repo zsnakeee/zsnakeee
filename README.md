@@ -14,7 +14,7 @@
 </a>
 
 - 🔭 I’m currently studing at <a href="https://www.facebook.com/%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D9%87-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%88-%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8-%D9%88-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-114868221898478">Cairo Higher Institute for Engineering, Computer Science</a>
-- 🌱 I’m currently learning react native, flutter
+- 🌱 I’m currently learning Laravel framework
 - 💬 Ask me about php , c++, c#
 - 📫 How to reach me: ziadtallat33@gmail.com
 
