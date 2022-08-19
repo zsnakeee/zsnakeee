@@ -14,17 +14,20 @@
 </a>
 
 - 🔭 I’m currently studing at <a href="https://www.facebook.com/%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D9%87-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%84%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D9%88-%D8%B9%D9%84%D9%88%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D8%A8-%D9%88-%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-114868221898478">Cairo Higher Institute for Engineering, Computer Science</a>
-- 🌱 I’m currently learning Laravel framework
+- 🌱 I’m currently learning React framework
 - 💬 Ask me about php , c++, c#
 - 📫 How to reach me: ziadtallat33@gmail.com
 
 <h3 align="center">Projects:</h3>
 
 
-- <a href="https://xcheat.org/">xcheat.org</a> (Front End (HTML,CSS) , Back End (PHP,JS))
+- <a href="https://xcheat.org/">xcheat.org</a> (Front End (HTML,CSS) , Back End (PHP (Laravel) ))
 - <a href="https://api.xcheat.org/">api.xcheat.org</a> (api to receive json info from desktop application (MFC C++) and add it in sql database)
 - <a href="https://github.com/zsnakeee/api-login-loader">api-login-loader</a> (MFC C++) 
-  
+- <a href="https://github.com/zsnakeee/api-login-loader">api-login-loader</a> (MFC C++) 
+- <a href="https://coin-loot.com/">coin-loot.com</a> (using Laravel framework)
+- <a href="https://first-wall.com//">first-wall.com</a> (using Laravel framework)
+
 <h3 align="center">Languages:</h3>
 
 <p align="center">
