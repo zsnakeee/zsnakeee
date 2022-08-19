@@ -22,11 +22,12 @@
 
 
 - <a href="https://xcheat.org/">xcheat.org</a> (Laravel framework)
+- <a href="https://coin-loot.com/">coin-loot.com</a> (Laravel framework)
+- <a href="https://first-wall.com//">first-wall.com</a> (Laravel framework)
 - <a href="https://api.xcheat.org/">api.xcheat.org</a> (api to receive json info from desktop application (MFC C++) and add it in sql database)
 - <a href="https://github.com/zsnakeee/api-login-loader">api-login-loader</a> (MFC C++) 
 - <a href="https://github.com/zsnakeee/api-login-loader">api-login-loader</a> (MFC C++) 
-- <a href="https://coin-loot.com/">coin-loot.com</a> (Laravel framework)
-- <a href="https://first-wall.com//">first-wall.com</a> (Laravel framework)
+
 
 <h3 align="center">Languages:</h3>
 
