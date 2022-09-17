@@ -17,4 +17,4 @@
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about php, c++, c#
 - 📫 How to reach me: ziadtallat33@gmail.com
-- 📝 Check my latest works on my <a href="" target="_blank">portfolio</a> 
+- 📝 Check my latest works on my <a href="#" target="_blank">portfolio</a> 
